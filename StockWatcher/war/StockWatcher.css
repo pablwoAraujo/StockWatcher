@@ -55,3 +55,12 @@ body {
 .image-logo{
   max-height: 80px;
 }
+
+/* Error message */
+.negativeChange {
+  color: red;
+}
+
+.errorMessage {
+  color: red;
+}
